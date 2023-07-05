@@ -1,0 +1,23 @@
+<?php
+$item ="Javascriot";
+echo $item;
+$item ="PHP";
+echo $item;
+const FELANGUAGE ="Vue.js";
+echo FELANGUAGE;
+$item ="php";
+$item =123;
+echo $item;
+$item =20;
+echo $item;
+$item ="こんにちは";
+echo $item;
+echo "<br />";
+echo 123;
+$name ="Tanaka";
+$last_name ="Yamada";
+$first_name ="Saburo";
+echo "<br />";
+echo $name . "Jiro";
+echo "<br />";
+echo $last_name . $first_name;
